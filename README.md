@@ -12,7 +12,7 @@ We would like more local players emerge using Tochka as platform of choice.
 
 Tochka is written on Golang programming language and can be run on wide range of operating systems. Postgres is database of choice and Tor is used to obfuscate server location. 
 
-[Payaka](http://qxklmrhx7qkzais6.onion/Tochka/payaka-payment-gate) is a payment gate solution used in conjunction with Tochka.
+[Payaka](https://github.com/5auth/payaka) is a payment gate solution used in conjunction with Tochka.
 
 Payaka supports:
 
